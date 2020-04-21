@@ -20,4 +20,4 @@ and you are **ready to go** !
 As you can see i used {{base_url}} in my case "127.0.0.1" if there is a need please change it.
 Also when you hit login API token will be auto stored in "token" variable for other API-s.
 Register API is without token so you don't need to logg in for "register" API.
-Docker is not implemented.```
+Docker is not implemented.
